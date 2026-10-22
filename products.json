@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Házi keksz",
+    "category": "apro",
+    "description": "Hagyományos, omlós, aranybarnára sütött édes keksz. [JSON]",
+    "price": 490,
+    "imageName": "apro_keksz"
+  },
+  {
+    "id": 2,
+    "name": "Lekváros linzer",
+    "category": "apro",
+    "description": "Omlós linzertészta gyümölcslekváros töltelékkel. [JSON]",
+    "price": 590,
+    "imageName": "apro_linzer"
+  },
+  {
+    "id": 3,
+    "name": "Francia macaron",
+    "category": "apro",
+    "description": "Mandulás habcsókból készült, krémmel töltött édesség. [JSON]",
+    "price": 690,
+    "imageName": "apro_macaron"
+  },
+  {
+    "id": 4,
+    "name": "Méteres sütemény",
+    "category": "apro",
+    "description": "Világos és kakaós piskóta krémes töltelékkel, csokoládébevonattal. [JSON]",
+    "price": 790,
+    "imageName": "apro_meteres"
+  },
+  {
+    "id": 5,
+    "name": "Zabgolyó",
+    "category": "apro",
+    "description": "Zabpelyhes alapú, kellemesen édes, golyó formájú sütemény. [JSON]",
+    "price": 490,
+    "imageName": "apro_zabgolyo"
+  },
+  {
+    "id": 6,
+    "name": "Sós perec",
+    "category": "sos",
+    "description": "Kívül enyhén ropogós, belül puha, hagyományos sós perec. [JSON]",
+    "price": 450,
+    "imageName": "sos_perec"
+  },
+  {
+    "id": 7,
+    "name": "Sajtos pogácsa",
+    "category": "sos",
+    "description": "Puha, omlós pogácsa gazdag sajtos ízesítéssel. [JSON]",
+    "price": 390,
+    "imageName": "sos_pogacsa"
+  },
+  {
+    "id": 8,
+    "name": "Sajtos rúd",
+    "category": "sos",
+    "description": "Ropogós, aranybarnára sült, sajttal megszórt sós sütemény. [JSON]",
+    "price": 450,
+    "imageName": "sos_rud"
+  },
+  {
+    "id": 9,
+    "name": "Sajtos roló",
+    "category": "sos",
+    "description": "Leveles tésztából készült, sajtkrémmel töltött sütemény. [JSON]",
+    "price": 690,
+    "imageName": "sos_sajtosrolo"
+  },
+  {
+    "id": 10,
+    "name": "Szezámos sütemény",
+    "category": "sos",
+    "description": "Ropogós sós tészta pirított szezámmagos szórással. [JSON]",
+    "price": 450,
+    "imageName": "sos_szezamos"
+  },
+  {
+    "id": 11,
+    "name": "Vajas croissant",
+    "category": "pek",
+    "description": "Könnyű, leveles tésztájú, vajas ízű péksütemény. [JSON]",
+    "price": 690,
+    "imageName": "pek_croissant"
+  },
+  {
+    "id": 12,
+    "name": "Csavart péksütemény",
+    "category": "pek",
+    "description": "Formára csavart, puha belsejű, aranybarnára sült tészta. [JSON]",
+    "price": 590,
+    "imageName": "pek_csavart"
+  },
+  {
+    "id": 13,
+    "name": "Kakaós csiga",
+    "category": "pek",
+    "description": "Foszlós tésztából készült, kakaós töltelékű csiga. [JSON]",
+    "price": 650,
+    "imageName": "pek_kakaoscsiga"
+  },
+  {
+    "id": 14,
+    "name": "Pizzás csiga",
+    "category": "pek",
+    "description": "Puha tésztába tekert, paradicsomos és fűszeres ízesítésű péksütemény. [JSON]",
+    "price": 690,
+    "imageName": "pek_pizzascsiga"
+  },
+  {
+    "id": 15,
+    "name": "Túrós batyu",
+    "category": "pek",
+    "description": "Puha kelt tészta édes túrótöltelékkel. [JSON]",
+    "price": 750,
+    "imageName": "pek_turosbatyu"
+  },
+  {
+    "id": 16,
+    "name": "Cukormentes sütemény",
+    "category": "mentes",
+    "description": "Hozzáadott cukor nélkül készített édes sütemény. [JSON]",
+    "price": 890,
+    "imageName": "mentes_cukor"
+  },
+  {
+    "id": 17,
+    "name": "Gluténmentes sütemény",
+    "category": "mentes",
+    "description": "Gluténtartalmú alapanyagok nélkül készített édesség. [JSON]",
+    "price": 990,
+    "imageName": "mentes_gluten"
+  },
+  {
+    "id": 18,
+    "name": "Laktózmentes sütemény",
+    "category": "mentes",
+    "description": "Laktózmentes alapanyagokkal készült finomság. [JSON]",
+    "price": 890,
+    "imageName": "mentes_laktoz"
+  },
+  {
+    "id": 19,
+    "name": "Paleo sütemény",
+    "category": "mentes",
+    "description": "Paleo jellegű recept alapján készített különleges édesség. [JSON]",
+    "price": 1090,
+    "imageName": "mentes_paleo"
+  },
+  {
+    "id": 20,
+    "name": "GDE Egyetemi torta I.",
+    "category": "torta",
+    "description": "Egyedi, egyetemi témájú formatorta. Ízesítése megrendeléskor választható. [JSON]",
+    "price": 14900,
+    "imageName": "torta_1"
+  },
+  {
+    "id": 21,
+    "name": "GDE Egyetemi torta II.",
+    "category": "torta",
+    "description": "Egyedi, egyetemi témájú formatorta. Ízesítése megrendeléskor választható. [JSON]",
+    "price": 16900,
+    "imageName": "torta_2"
+  },
+  {
+    "id": 22,
+    "name": "GDE Egyetemi torta III.",
+    "category": "torta",
+    "description": "Egyedi, egyetemi témájú formatorta. Ízesítése megrendeléskor választható. [JSON]",
+    "price": 18900,
+    "imageName": "torta_3"
+  },
+  {
+    "id": 23,
+    "name": "GDE Egyetemi torta IV.",
+    "category": "torta",
+    "description": "Egyedi, egyetemi témájú formatorta. Ízesítése megrendeléskor választható. [JSON]",
+    "price": 19900,
+    "imageName": "torta_4"
+  },
+  {
+    "id": 24,
+    "name": "GDE Egyetemi torta V.",
+    "category": "torta",
+    "description": "Egyedi, egyetemi témájú formatorta. Ízesítése megrendeléskor választható. [JSON]",
+    "price": 21900,
+    "imageName": "torta_5"
+  }
+]
